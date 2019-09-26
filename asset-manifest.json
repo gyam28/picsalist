@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/picsalist/static/css/main.cdf209ea.chunk.css",
-    "main.js": "/picsalist/static/js/main.e8544b0c.chunk.js",
-    "main.js.map": "/picsalist/static/js/main.e8544b0c.chunk.js.map",
+    "main.js": "/picsalist/static/js/main.5377f2ff.chunk.js",
+    "main.js.map": "/picsalist/static/js/main.5377f2ff.chunk.js.map",
     "runtime~main.js": "/picsalist/static/js/runtime~main.a68c9adb.js",
     "runtime~main.js.map": "/picsalist/static/js/runtime~main.a68c9adb.js.map",
     "static/js/2.da65d401.chunk.js": "/picsalist/static/js/2.da65d401.chunk.js",
     "static/js/2.da65d401.chunk.js.map": "/picsalist/static/js/2.da65d401.chunk.js.map",
     "index.html": "/picsalist/index.html",
-    "precache-manifest.9f5bf1f0e7415110a0d07d849bb6c8d5.js": "/picsalist/precache-manifest.9f5bf1f0e7415110a0d07d849bb6c8d5.js",
+    "precache-manifest.a121bac291b09a59f68d70af35d51767.js": "/picsalist/precache-manifest.a121bac291b09a59f68d70af35d51767.js",
     "service-worker.js": "/picsalist/service-worker.js",
     "static/css/main.cdf209ea.chunk.css.map": "/picsalist/static/css/main.cdf209ea.chunk.css.map"
   }
